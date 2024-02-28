@@ -2,7 +2,7 @@
 
 ###
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabh0com" alt="rishabh0com" /></a> </p>
-<h1 align="center">Hi 👋, I'm Rishabh Tripathi</h1>
+<h1 align="center">I'm Rishabh Tripathi</h1>
 <h3 align="center">A passionate Full Stack Engineer.</h3>
 
 ###
@@ -101,7 +101,6 @@
 ###
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabh0com&show_icons=true&locale=en&layout=compact" alt="rishabh0com" /></p>
 
