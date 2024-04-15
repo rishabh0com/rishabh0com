@@ -1,5 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-
+<h1 align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ffbe0b&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Rishabh.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
+</h1>
 ###
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabh0com" alt="rishabh0com" /></a> </p>
 <h1 align="center">I'm Rishabh Tripathi</h1>
