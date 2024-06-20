@@ -1,129 +1,174 @@
 <h1 align='center'>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ffbe0b&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Rishabh.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
-<h3 align='center'>
-  A passionate Full Stack Engineer from India.
-</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=rishabh0com&style=flat-square&color=blue" alt="Profile Views" />
+<h2 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Yashavantha M 💻! Glad to see you here!
+</h2>
+      
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr>
+
+Hello there, Folks! I'm Rishabh Tripathi, a dedicated Full Stack Web Developer with a Passionate for crafting digital solutions that elevate everyday experiences. I thrive on engaging projects that push the boundaries of my knowledge and skills. Proficient in the MERN stack, I specialize in JavaScript for web development, delivering comprehensive solutions as a Full Stack Developer. I'm eagerly seeking compelling and challenging opportunities in the field.
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mYashavanth&label=Profile%20views&color=0e75b6&style=flat" alt="mYashavanth" /> </p>
+<img align="right" alt="Coding" width="400"  src="./pic/gif4.gif">
+
+- 🔭 I’m currently pursuing **Full Stack Web Development**
+
+- Checkout my **[Resume]([https://drive.google.com/file/d/1o3-P0QLLzMgs6QWYZngc0gHUbNCu2x1H/view?usp=sharing](https://drive.google.com/file/d/1-J9mDV6yo_Qq5_lRI8teJRB5rVslZLE9/view))**
+
+- 🌱 I’m currently learning **DSA**
+
+- 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/rishabh-tripathi0703)**
+
+- 📫 Reach me on **rishabhtripathi587@gmail.com**
+
+- 📘 I pursuing my bachelor's degree in BCA from CSJM University Kanpur.
+
+- 💬 ask me about anything, I would be happy to help.
+
+- ⚡ Fun Fact: You only achieve your dreams if you dare to dream them first.
+
+
+- 💬 Have a look at my [Portfolio](https://rishabh-tripathi.vercel.app/)
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px" marginBottom="4px"> </h2>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rishabh_0703/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Rishabh78419250) [![!PortFolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rishabh-tripathi.vercel.app/)
+
+<h2 align="left">⚡Tech Stack</h2>
+<table align="center">
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <a style="font-weight: bold; text-decoration: none;" href="https://www.w3.org/html/">
+          <span>HTML5</span><br /><br />
+          <img
+            height="64px"
+             src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5 Logo"
+          />
+        </a>
+      </td>
+        <td width="25%" align="center">
+        <a href="http://www.w3.org/TR/CSS/">
+          <span>CSS</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg" />
+        </a>
+      </td>
+       <td width="25%" align="center">
+        <a href="http://expressjs.com/">
+          <span>Express</span><br /><br />
+          <img
+            height="64px"
+            src="https://cdn.svgporn.com/logos/express.svg"
+          />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a href="https://chakra-ui.com/">
+          <span>Chakra UI</span><br /><br />
+          <img height="64px" src="https://itelofilho.gallerycdn.vsassets.io/extensions/itelofilho/chakra-ui-cheatsheet/0.1.2/1602346378840/Microsoft.VisualStudio.Services.Icons.Default" alt="Chakra UI Logo" />
+        </a>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <a style="font-weight: bold; text-decoration: none;" href="https://git-scm.com/">
+          <span>Git</span><br /><br />
+          <img
+            height="64px"
+            src="https://cdn.svgporn.com/logos/git-icon.svg"
+          />
+        </a>
+    </td>
+      <td width="25%" align="center">
+        <a style="font-weight: bold; text-decoration: none;" href="https://www.vercel.com/">
+          <span>Vercel</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/vercel.svg" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+          <span>JavaScript</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a style="font-weight: bold; text-decoration: none;" href="https://react.dev/">
+          <span>React</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/react.svg" />
+        </a>
+      </td>
+    </tr>
+    <tr valign="top">
+        <td width="25%" align="center">
+        <a style="font-weight: bold; text-decoration: none;" href="https://www.getpostman.com/">
+          <span>Postman</span><br /><br />
+          <img
+            height="64px"
+            src="https://cdn.svgporn.com/logos/postman-icon.svg"
+          />
+        </a>
+    </td>
+    <td width="25%" align="center">
+      <a style="font-weight: bold; text-decoration: none;" href="https://www.mongodb.org/">
+        <span>MongoDB</span><br /><br />
+        <img
+          height="64px"
+          src="https://cdn.svgporn.com/logos/mongodb.svg"
+        />
+      </a>
+    </td>
+      <td width="25%" align="center">
+        <a style="font-weight: bold; text-decoration: none;" href="https://www.netlify.com/">
+          <span>Netlify</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a style="font-weight: bold; text-decoration: none;" href="https://nodejs.org/">
+          <span>Node.js</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg" />
+        </a>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+
+<br/>
+
+## 📊 My Github Stats
+
+<!-- github status  -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabbh0com" alt="Ankit Kumar" /></a> </p>
+<div align="center" style="display: flex; gap:50px">
+<!-- https://github-readme-stats.vercel.app/api?&hide=stars,issues&theme=radical&include_all_commits=true&cache_seconds=1800&custom_title=Your%20GitHub%20Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=rishabh0com&theme=react&border_radius=4.6&locale=en&layout=compact&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&show_icons=true" style="width: 40%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh0com&theme=react&border_radius=4.6&locale=en&layout=compact&show_icons=true" style="width: 40%" />
+
+</div>
+<div align="center" style="display: flex; ">
+ 
+<img src="https://streak-stats.demolab.com?user=rishabh0com&_border=true&theme=dark&hide_border=true&theme=react&locale=en&layout=compact" style="width: 40%" />
+
 </div>
 
+ <h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Ankit's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rishabh0com&bg_color=ece2f8&color=000000&line=9263d9&point=c45f5f&area=true&hide_border=true" /></a>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<h6 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning DSA<br>🎲 Fun fact: Chill</h6>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<br> 
+<div align="center">
+ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </div>
 
-###
-
-<h2 align="left">Tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-</div>
-
-###
-
-<h3 align="left">Social Media</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/rishabh-tripathi0703" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <a href="https://t.me/rtripathi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="rishabhtripathi587@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/_rishabh_0703/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://twitter.com/Rishabh78419250" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
-
-###
+<hr>
 
 <div align="center">
-  <img height="200" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.1.1883859604.1683210281&semt=sph"  />
-</div>
-
-###
-###
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabh0com&show_icons=true&locale=en&layout=compact" alt="rishabh0com" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabh0com&show_icons=true&locale=en" alt="rishabh0com" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh0com&" alt="rishabh0com" /></p>
-
-<!--
-**rishabh0com/rishabh0com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rishabh0com}/count.svg" /></p> 
+<br></div>
