@@ -150,10 +150,13 @@ Hello there, Folks! I'm Rishabh Tripathi, a dedicated Full Stack Web Developer w
 <br/>
 <!-- https://github-readme-stats.vercel.app/api?&hide=stars,issues&theme=radical&include_all_commits=true&cache_seconds=1800&custom_title=Your%20GitHub%20Stats -->
 <br>
+<div align="center" style="display: flex; ">
   <img src="https://github-readme-stats.vercel.app/api?username=rishabh0com&theme=react&border_radius=4.6&locale=en&layout=compact&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&show_icons=true" style="width: 40%" />
+</div>
 <br>
-
+<div align="center" style="display: flex; ">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh0com&theme=react&border_radius=4.6&locale=en&layout=compact&show_icons=true" style="width: 40%" />
+</div>
 <br>
 <div align="center" style="display: flex; ">
  
@@ -162,12 +165,10 @@ Hello there, Folks! I'm Rishabh Tripathi, a dedicated Full Stack Web Developer w
 </div>
 <br>
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Ankit's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rishabh0com&bg_color=ece2f8&color=000000&line=9263d9&point=c45f5f&area=true&hide_border=true" /></a>
+  <a><img alt="Rishabh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rishabh0com&bg_color=ece2f8&color=000000&line=9263d9&point=c45f5f&area=true&hide_border=true" /></a>
 
 <br> 
-<div align="center">
- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</div>
+
 
 <hr>
 
