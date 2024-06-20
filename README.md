@@ -4,7 +4,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ffbe0b&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Rishabh.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<hr>
 
 Hello there, Folks! I'm Rishabh Tripathi, a dedicated Full Stack Web Developer with a Passionate for crafting digital solutions that elevate everyday experiences. I thrive on engaging projects that push the boundaries of my knowledge and skills. Proficient in the MERN stack, I specialize in JavaScript for web development, delivering comprehensive solutions as a Full Stack Developer. I'm eagerly seeking compelling and challenging opportunities in the field.
 
