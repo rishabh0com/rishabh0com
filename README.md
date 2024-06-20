@@ -4,7 +4,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ffbe0b&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Rishabh.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<br>
+<br>
 Hello there, Folks! I'm Rishabh Tripathi, a dedicated Full Stack Web Developer with a Passionate for crafting digital solutions that elevate everyday experiences. I thrive on engaging projects that push the boundaries of my knowledge and skills. Proficient in the MERN stack, I specialize in JavaScript for web development, delivering comprehensive solutions as a Full Stack Developer. I'm eagerly seeking compelling and challenging opportunities in the field.
 
 
@@ -139,7 +140,7 @@ Hello there, Folks! I'm Rishabh Tripathi, a dedicated Full Stack Web Developer w
 ## 📊 My Github Stats
 
 <!-- github status  -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabbh0com" alt="Ankit Kumar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabh0com" alt="Rishabh Tripathi" /></a> </p>
 <div align="center" style="display: flex; gap:50px">
 <!-- https://github-readme-stats.vercel.app/api?&hide=stars,issues&theme=radical&include_all_commits=true&cache_seconds=1800&custom_title=Your%20GitHub%20Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=rishabh0com&theme=react&border_radius=4.6&locale=en&layout=compact&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&show_icons=true" style="width: 40%" />
