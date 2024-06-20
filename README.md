@@ -6,7 +6,7 @@
 
 <br>
 
-<h3> <i>Hello there, Folks! I'm Rishabh Tripathi, a dedicated Full Stack Web Developer with a Passionate for crafting digital solutions that elevate everyday experiences. I thrive on engaging projects that push the boundaries of my knowledge and skills. Proficient in the MERN stack, I specialize in JavaScript for web development, delivering comprehensive solutions as a Full Stack Developer. I'm eagerly seeking compelling and challenging opportunities in the field.</i></h3>
+<h3> <center>Hello there, Folks! I'm Rishabh Tripathi, a dedicated Full Stack Web Developer with a Passionate for crafting digital solutions that elevate everyday experiences. I thrive on engaging projects that push the boundaries of my knowledge and skills. Proficient in the MERN stack, I specialize in JavaScript for web development, delivering comprehensive solutions as a Full Stack Developer. I'm eagerly seeking compelling and challenging opportunities in the field.</center></h3>
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh0com&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh0com" /> </p>
