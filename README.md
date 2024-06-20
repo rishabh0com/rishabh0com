@@ -18,9 +18,9 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/rishabh-tripathi0703)**
+- 👯 I’m looking to collaborate on <i>**[LinkedIn](https://www.linkedin.com/in/rishabh-tripathi0703)**</i>
 
-- 📫 Reach me on **rishabhtripathi587@gmail.com**
+- 📫 Reach me on <i> **rishabhtripathi587@gmail.com**</i>
 
 - 📘 I pursuing my bachelor's degree in BCA from CSJM University Kanpur.
 
@@ -29,7 +29,7 @@
 - ⚡ Fun Fact: You only achieve your dreams if you dare to dream them first.
 
 
-- 💬 Have a look at my [Portfolio](https://rishabh-tripathi.vercel.app/)
+- 💬 Have a look at my <i>[Portfolio](https://rishabh-tripathi.vercel.app/)</i>
 
 <br>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px" marginBottom="4px"> </h2>
