@@ -3,15 +3,15 @@
 <h1 align='center'>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ffbe0b&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Rishabh.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <br>
-<br>
+
 Hello there, Folks! I'm Rishabh Tripathi, a dedicated Full Stack Web Developer with a Passionate for crafting digital solutions that elevate everyday experiences. I thrive on engaging projects that push the boundaries of my knowledge and skills. Proficient in the MERN stack, I specialize in JavaScript for web development, delivering comprehensive solutions as a Full Stack Developer. I'm eagerly seeking compelling and challenging opportunities in the field.
 
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh0com&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh0com" /> </p>
 <img align="right" alt="Coding" width="400"  src="./pic/gif4.gif">
-
+<br>
 - 🔭 I’m currently pursuing **Full Stack Web Development**
 
 - Checkout my **[Resume]([https://drive.google.com/file/d/1o3-P0QLLzMgs6QWYZngc0gHUbNCu2x1H/view?usp=sharing](https://drive.google.com/file/d/1-J9mDV6yo_Qq5_lRI8teJRB5rVslZLE9/view))**
@@ -31,10 +31,12 @@ Hello there, Folks! I'm Rishabh Tripathi, a dedicated Full Stack Web Developer w
 
 - 💬 Have a look at my [Portfolio](https://rishabh-tripathi.vercel.app/)
 
+<br>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px" marginBottom="4px"> </h2>
-
+<br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rishabh_0703/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Rishabh78419250) [![!PortFolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rishabh-tripathi.vercel.app/)
 
+<br>
 <h2 align="left">⚡Tech Stack</h2>
 <table align="center">
   <tbody>
@@ -153,7 +155,7 @@ Hello there, Folks! I'm Rishabh Tripathi, a dedicated Full Stack Web Developer w
 <img src="https://streak-stats.demolab.com?user=rishabh0com&_border=true&theme=dark&hide_border=true&theme=react&locale=en&layout=compact" style="width: 40%" />
 
 </div>
-
+<br>
  <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="Ankit's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rishabh0com&bg_color=ece2f8&color=000000&line=9263d9&point=c45f5f&area=true&hide_border=true" /></a>
 
@@ -168,3 +170,5 @@ Hello there, Folks! I'm Rishabh Tripathi, a dedicated Full Stack Web Developer w
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rishabh0com}/count.svg" /></p> 
 <br></div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
