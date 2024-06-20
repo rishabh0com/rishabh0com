@@ -1,19 +1,15 @@
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align='center'>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ffbe0b&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Rishabh.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Yashavantha M 💻! Glad to see you here!
-</h2>
-      
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <hr>
 
 Hello there, Folks! I'm Rishabh Tripathi, a dedicated Full Stack Web Developer with a Passionate for crafting digital solutions that elevate everyday experiences. I thrive on engaging projects that push the boundaries of my knowledge and skills. Proficient in the MERN stack, I specialize in JavaScript for web development, delivering comprehensive solutions as a Full Stack Developer. I'm eagerly seeking compelling and challenging opportunities in the field.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mYashavanth&label=Profile%20views&color=0e75b6&style=flat" alt="mYashavanth" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh0com&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh0com" /> </p>
 <img align="right" alt="Coding" width="400"  src="./pic/gif4.gif">
 
 - 🔭 I’m currently pursuing **Full Stack Web Development**
