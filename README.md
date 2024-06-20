@@ -14,7 +14,7 @@
 <br>
 - 🔭 I’m currently pursuing <spna><b>Full Stack Web Development</b></spna>
 
-- Checkout my <i>**[Resume](https://drive.google.com/file/d/14ac8sHVwhts0JcWpnfLbTrXyA6WJ4ujz/view)**</i>
+- Checkout my <i>**[Resume](https://drive.google.com/file/d/1pzT_V3rpB2ez6tqj9FzrL8O_G7EPG4G3/view?usp=sharing)**</i>
 
 - 🌱 I’m currently learning **DSA**
 
