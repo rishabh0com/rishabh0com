@@ -12,9 +12,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh0com&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh0com" /> </p>
 <img align="right" alt="Coding" width="400"  src="./pic/gif4.gif">
 <br>
-- 🔭 I’m currently pursuing **Full Stack Web Development**
+- 🔭 I’m currently pursuing <spna><b>Full Stack Web Development</b></spna>
 
-- Checkout my **[Resume]([https://drive.google.com/file/d/1o3-P0QLLzMgs6QWYZngc0gHUbNCu2x1H/view?usp=sharing](https://drive.google.com/file/d/1-J9mDV6yo_Qq5_lRI8teJRB5rVslZLE9/view))**
+- Checkout my [Resume]([https://drive.google.com/file/d/1o3-P0QLLzMgs6QWYZngc0gHUbNCu2x1H/view?usp=sharing)](https://drive.google.com/file/d/1-J9mDV6yo_Qq5_lRI8teJRB5rVslZLE9/view) 
 
 - 🌱 I’m currently learning **DSA**
 
